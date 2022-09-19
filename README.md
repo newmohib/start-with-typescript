@@ -4,7 +4,8 @@
 
   ##This article will focus only on TypeScript extra syntax, as opposed to JavaScript.
 
-    ###To test TypeScript’s compiler, head to the Playground where you will be able to type code, have auto completion and directly see the emitted JavaScript.
+    ###To test TypeScript’s compiler, head to the Playground where you will be able to type code,
+    have auto completion and directly see the emitted JavaScript.
 
 
 
